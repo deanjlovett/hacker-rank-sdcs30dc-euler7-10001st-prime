@@ -1,0 +1,23 @@
+{
+  "name": "hacker-rank-sdcs30dc-euler7-10001st-prime",
+  "version": "0.0.1",
+  "description": "hacker rank, sdcs 30 day challenge, Euler #7 list primes",
+  "main": "lp.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/deanjlovett/hacker-rank-sdcs30dc-euler7-10001st-prime.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/deanjlovett/hacker-rank-sdcs30dc-euler7-10001st-prime/issues"
+  },
+  "homepage": "https://github.com/deanjlovett/hacker-rank-sdcs30dc-euler7-10001st-prime#readme",
+  "dependencies": {
+    "command-line-args": "^5.1.1",
+    "command-line-usage": "^6.1.0"
+  }
+}
